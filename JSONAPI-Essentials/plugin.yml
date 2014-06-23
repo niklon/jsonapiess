@@ -1,0 +1,9 @@
+author: niklon
+database: false
+description: Implements JSONAPI methods for Essentials plugin!
+main: com.niklon.jsonapiessentials.EssMethods
+name: JSONAPI-Essentials
+startup: postworld
+url: http://niklon.com/
+version: '1.0'
+depend: [JSONAPI, Essentials]
